@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-npm install mmp-build -g
+npm install py2hex -g
 ```
 
 ## Run
@@ -16,3 +16,7 @@ npm install mmp-build -g
 ```bash
 p2h input.py
 ```
+
+## License
+Released under the GNU General Public License v3  
+http://www.gnu.org/licenses/gpl-3.0.html
